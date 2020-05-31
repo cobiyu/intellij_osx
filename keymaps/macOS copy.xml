@@ -1,0 +1,18 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="Compare.LastVersion">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="Console.TableResult.CompareCells" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="GotoTest" />
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="ResourceExplorer.show" />
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="ServiceView.ShowServices" />
+  <action id="TagDocumentationNavigation" />
+  <action id="Uml.ShowDiff" />
+</keymap>
