@@ -1,5 +1,13 @@
 <keymap version="1" name="macOS copy 1" parent="Mac OS X 10.5+">
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="Console.TableResult.ColumnsList" />
   <action id="Console.TableResult.NextPage" />
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="FileChooser.GotoProject" />
+  <action id="FileStructurePopup" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <mouse-shortcut keystroke="button5" />
@@ -23,4 +31,5 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
+  <action id="UML.ShowStructure" />
 </keymap>
