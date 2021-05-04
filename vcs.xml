@@ -22,9 +22,13 @@
           <option name="url" value="https://github.com/cobiyu/java-racingcar-precourse" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/cobiyu/java-racingcar-precourse.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Desktop/workspace" />
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
