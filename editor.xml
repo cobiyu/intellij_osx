@@ -2,9 +2,6 @@
   <component name="CodeInsightSettings">
     <option name="SMART_END_ACTION" value="false" />
   </component>
-  <component name="DefaultFont">
-    <option name="FONT_FAMILY" value="D2Coding" />
-  </component>
   <component name="EditorSettings">
     <option name="STRIP_TRAILING_SPACES" value="None" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
